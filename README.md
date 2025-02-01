@@ -15,7 +15,7 @@ Eu me chamo Andrews Rodrigues, sou um Programador iniciante Front End estou apre
     <img align="Left" alt="Instagram" width=90px" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
    <a href="https://www.linkedin.com/in/andrews-rodrigues-748410195/" >
-    <img align="Left" alt="Linkedin" width=90px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img align="Left" alt="Linkedin" width=80px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
  </p>
    <br />
 
